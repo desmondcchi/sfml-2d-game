@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-    // Print out 1=5.
-    for (int i = 0; i < 5; ++i) {
+    // Prints out 1-10.
+    for (int i = 0; i < 10; ++i) {
         std::cout << i + 1<< std::endl;
     }
 
